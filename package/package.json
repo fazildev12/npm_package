@@ -1,0 +1,22 @@
+{
+  "name": "faz_package",
+  "version": "1.0.1",
+  "description": "createing test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "faz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazildev12/npm_package.git"
+  },
+  "keywords": [
+    "faz_test"
+  ],
+  "author": "these test package authore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazildev12/npm_package/issues"
+  },
+  "homepage": "https://github.com/fazildev12/npm_package#readme"
+}
